@@ -1,5 +1,5 @@
-﻿#Ignore Starter Content
-Content/StarterContent
+﻿# Ignore Starter Content
+Content/StarterContent/
 
 # Visual Studio 2015 user specific files
 .vs/
@@ -9,9 +9,6 @@ Content/StarterContent
 *.lo
 *.o
 *.obj
-
-# Starter Content
-Content/StarterContent/
 
 # Precompiled Headers
 *.gch
